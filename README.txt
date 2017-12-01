@@ -1,0 +1,1 @@
+Subo Tarea sobre comparativo entre N-vecinos Cercanos, contra SVM y Red Neuronal, desempeña mas pobre la ultima
